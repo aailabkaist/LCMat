@@ -47,7 +47,3 @@ For reproduce the results of LCMAT-S, we provide a bash file for running `main.p
 Here, XXX is dataset. You can get results in `result/` directory.
 
 You can also reproduce cross-architecture generalization result by running `cross_network_generalization.py`.
-
-We will also release the code of LCMat-C soon.
-
-Thank you for your Interest in our paper!
